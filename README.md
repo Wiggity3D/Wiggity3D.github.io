@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vik's Portfolio</title>
+    <title>Wiggity</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
@@ -681,7 +681,7 @@
     <header>
         <div class="container">
             <nav>
-                <a href="#" class="logo">VIK<span>STUDIO</span></a>
+                <a href="#" class="logo">Wiggity<span>3D</span></a>
                 <ul class="nav-links">
                     <li><a href="#hero" class="active">Home</a></li>
                     <li><a href="#showreel">Showreel</a></li>
@@ -808,7 +808,7 @@
             </div>
             <div class="about-content">
                 <div class="about-image">
-                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Vik">
+                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Wiggity">
                 </div>
                 <div class="about-text">
                     <h3>Professional Video Creator & Editor</h3>
@@ -883,7 +883,7 @@
                             </div>
                             <div class="contact-text">
                                 <h4>Email</h4>
-                                <p>vik@example.com</p>
+                                <p>wiggityvik@gmail.com</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -928,7 +928,7 @@
     <footer>
         <div class="container">
             <div class="footer-content">
-                <div class="footer-logo">VIKSTUDIO</div>
+                <div class="footer-logo">Wiggity</div>
                 <ul class="footer-links">
                     <li><a href="#hero">Home</a></li>
                     <li><a href="#showreel">Showreel</a></li>
@@ -939,7 +939,7 @@
                     <li><a href="#contact">Contact</a></li>
                 </ul>
                 <div class="copyright">
-                    &copy; 2023 Vik Studio. All Rights Reserved.
+                    &copy; 2023 Wiggity. All Rights Reserved.
                 </div>
             </div>
         </div>
