@@ -681,7 +681,7 @@
     <header>
         <div class="container">
             <nav>
-                <a href="#" class="logo">Wiggity<span>3D</span></a>
+                <a href="#" class="logo">Wiggity<span>STUDIO</span></a>
                 <ul class="nav-links">
                     <li><a href="#hero" class="active">Home</a></li>
                     <li><a href="#showreel">Showreel</a></li>
@@ -883,7 +883,7 @@
                             </div>
                             <div class="contact-text">
                                 <h4>Email</h4>
-                                <p>wiggityvik@gmail.com</p>
+                                <p>Wiggity@example.com</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -928,7 +928,7 @@
     <footer>
         <div class="container">
             <div class="footer-content">
-                <div class="footer-logo">Wiggity</div>
+                <div class="footer-logo">WiggitySTUDIO</div>
                 <ul class="footer-links">
                     <li><a href="#hero">Home</a></li>
                     <li><a href="#showreel">Showreel</a></li>
@@ -939,21 +939,24 @@
                     <li><a href="#contact">Contact</a></li>
                 </ul>
                 <div class="copyright">
-                    &copy; 2023 Wiggity. All Rights Reserved.
+                    &copy; 2023 Wiggity Studio. All Rights Reserved.
                 </div>
             </div>
         </div>
     </footer>
 
     <script>
-        // Sample video data
+        // Sample video data (now with 8 videos)
         const videos = [
             { id: "dQw4w9WgXcQ", title: "Music Video Project", thumbnail: "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" },
             { id: "jNQXAC9IVRw", title: "Commercial Campaign", thumbnail: "https://i.ytimg.com/vi/jNQXAC9IVRw/maxresdefault.jpg" },
             { id: "oHg5SJYRHA0", title: "Corporate Event Coverage", thumbnail: "https://i.ytimg.com/vi/oHg5SJYRHA0/maxresdefault.jpg" },
             { id: "DLzxrzFCyOs", title: "Documentary Short", thumbnail: "https://i.ytimg.com/vi/DLzxrzFCyOs/maxresdefault.jpg" },
             { id: "kfVsfOSbJY0", title: "Product Launch Video", thumbnail: "https://i.ytimg.com/vi/kfVsfOSbJY0/maxresdefault.jpg" },
-            { id: "gkTb9GP9lVI", title: "Travel Film", thumbnail: "https://i.ytimg.com/vi/gkTb9GP9lVI/maxresdefault.jpg" }
+            { id: "gkTb9GP9lVI", title: "Travel Film", thumbnail: "https://i.ytimg.com/vi/gkTb9GP9lVI/maxresdefault.jpg" },
+            // Added two more videos
+            { id: "3JZ_D3ELwOQ", title: "Brand Identity", thumbnail: "https://i.ytimg.com/vi/3JZ_D3ELwOQ/maxresdefault.jpg" },
+            { id: "FzVR_fymZw4", title: "Behind the Scenes", thumbnail: "https://i.ytimg.com/vi/FzVR_fymZw4/maxresdefault.jpg" }
         ];
 
         // Generate gallery items
