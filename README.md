@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="generator" content="Framer df7882f">
     <title>Porto</title>
-    <meta name="description" content="Porto, a minimal portfolio framer template, is a perfect fit for personal portfolios, designers, freelancers, agencies, and photographers.">
+    <meta name="description" content="Portfolio">
     <meta name="framer-search-index" content="https://framerusercontent.com/sites/4LV9GwVrCGFySjB5jSotdR/searchIndex-lv5iNtmLqfBt.json">
     <link href="https://framerusercontent.com/sites/icons/default-favicon-light.v1.png" rel="icon" media="(prefers-color-scheme: light)">
     <link href="https://framerusercontent.com/sites/icons/default-favicon-dark.v1.png" rel="icon" media="(prefers-color-scheme: dark)">
