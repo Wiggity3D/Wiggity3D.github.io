@@ -11,21 +11,21 @@
     
     <meta name="viewport" content="width=device-width">
     <meta name="generator" content="Framer df7882f">
-    <title>Porto</title>
-    <meta name="description" content="Porto, a minimal portfolio framer template, is a perfect fit for personal portfolios, designers, freelancers, agencies, and photographers.">
+    <title>Wiggity 3D</title>
+    <meta name="description" content="Wiggity 3D">
     <meta name="framer-search-index" content="https://framerusercontent.com/sites/4LV9GwVrCGFySjB5jSotdR/searchIndex-k7wtlZO5122H.json">
     <link href="https://framerusercontent.com/sites/icons/default-favicon-light.v1.png" rel="icon" media="(prefers-color-scheme: light)">
     <link href="https://framerusercontent.com/sites/icons/default-favicon-dark.v1.png" rel="icon" media="(prefers-color-scheme: dark)">
     <link rel="apple-touch-icon" href="https://framerusercontent.com/sites/icons/default-touch-icon.v3.png">
     
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Porto">
-    <meta property="og:description" content="Porto, a minimal portfolio framer template, is a perfect fit for personal portfolios, designers, freelancers, agencies, and photographers.">
+    <meta property="og:title" content="Wiggity">
+    <meta property="og:description" content="Wiggity For all things 3D">
     <meta property="og:image" content="https://framerusercontent.com/images/Y2hDnlZarjPJwwtYxc065dEr57A.png">
     
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Porto">
-    <meta name="twitter:description" content="Porto, a minimal portfolio framer template, is a perfect fit for personal portfolios, designers, freelancers, agencies, and photographers.">
+    <meta name="twitter:title" content="Wiggity3D">
+    <meta name="twitter:description" content="Wiggity For all things 3D">
     <meta name="twitter:image" content="https://framerusercontent.com/images/Y2hDnlZarjPJwwtYxc065dEr57A.png">
     
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
