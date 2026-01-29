@@ -1,0 +1,18 @@
+# Allow Google to index your site (Crucial for SEO)
+User-agent: Googlebot
+Allow: /
+
+# Block OpenAI (ChatGPT) from training on your work
+User-agent: GPTBot
+Disallow: /
+
+# Block Common Crawl (Used by many AI models)
+User-agent: CCBot
+Disallow: /
+
+# Allow all other standard search engines (Bing, DuckDuckGo)
+User-agent: *
+Allow: /
+
+# Point to your sitemap (We will add this next)
+Sitemap: https://wiggity3d.github.io/sitemap.xml
